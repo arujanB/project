@@ -1,0 +1,26 @@
+<?php 
+	return ['Hello' => "Hello", 
+			'I`m'=>"I`m", 
+			'ROCKET'=> "ROCKET",
+			'Hello! I`m ROCKET' => 'Hello! I`m ROCKET',
+			'Rus/Eng' => 'Rus/Eng',
+			'Rus' => 'Rus',
+			'Eng' => 'Eng',
+			'Kz' => 'Kz',
+			'Home' => "Home",
+			'About us' => "About us",
+			'Direct' => "Direct",
+			'Information' => "Information",
+			'Sign up' => 'Sign up',
+			'Log in' => 'Log in',
+			'I am ready to help you:)' => 'I am ready to help you:)',
+			'A public platform building the definitive collection of coding questions & answers' => 'A public platform building the definitive collection of coding questions & answers',
+			'A community-based space to find and contribute answers to technical challenges, and one of the most popular websites in the world.' => 'A community-based space to find and contribute answers to technical challenges, and one of the most popular websites in the world.',
+			'ROCKET for Teams is used by thousands of organizations around the globe' => 'ROCKET for Teams is used by thousands of organizations around the globe',
+			'Main.ST' => 'Main.ST',
+			'Beilgham' => 'Beilgham',
+			'WA 14456' => 'WA 14456',
+			'Click here!' => 'Click here!',
+			'You have a problem? You can send an Email:)' => 'You have a problem? You can send an Email:)'
+		];
+?>
