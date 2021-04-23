@@ -1,3 +1,3 @@
 Hello <i>{{ $demo->receiver}}</i>,
-<p>Assel! You are doing correctly:)</p>
+<p>Aruzhan! Someone watch your project:)</p>
 <i>{{$demo->sender}}</i>

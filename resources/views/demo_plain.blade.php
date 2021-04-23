@@ -1,3 +1,3 @@
 Hello {{ $demo->receiver}},
-Assel! You are doing correctly:)
+Aruzhan! Someone wacth your project:)
 {{$demo->sender}}
